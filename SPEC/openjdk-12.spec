@@ -1,7 +1,7 @@
 Name:           openjdk-12
-Version:        12
 %define build_timestamp %(date +"%Y%m%d_%H%M")
-Release:        %{build_timestamp}
+Version:        %{build_timestamp}
+Release:        1
 Summary:        OpenJDK
 
 License:        GPL
