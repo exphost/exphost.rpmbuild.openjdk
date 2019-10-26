@@ -30,4 +30,3 @@ cp -ivr %{_builddir}/openjdk-12/*/* %{buildroot}/opt/openjdk-12
 
 %files
 /opt/openjdk-12/*
-
